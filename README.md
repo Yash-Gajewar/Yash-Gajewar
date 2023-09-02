@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-gajewar&label=Profile%20views&color=0e75b6&style=flat" alt="yash-gajewar" /> </p>
 
-- 💬 Ask me about **FARM Stack, JAVA, PYTHON**
+- 💬 Ask me about **FARM Stack, JAVA, PYTHON, C++**
 
 - 📫 How to reach me **yashgajewar06@gmail.com**
 
